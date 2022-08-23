@@ -1,3 +1,10 @@
+## **Juan Diego González Parra**
+
+I am a civil engineer, with a master’s degree in water resources and more than 10 years of experience. Adjunct professor in the [Universidad Nacional de Colombia](www.unal.edu.co). Seeking to use proven management and technical skills to develop and coordinate water-related environmental projects. My experience includes leadership and coordination of interdisciplinary teams in Colombia, Ecuador, and the USA, as well as communication with stakeholders such as government agencies, private companies, and communities. Developed several water-related projects in water sector consultancies and government agencies, involving hydrologic and hydraulic modelling of watersheds and aquatic ecosystems, and advised the development of technical documents, guidelines, and regulations in Colombia, related to integrated water resource management, including water quality, environmental flows, riparian zones, and sediment management.
+
+
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
