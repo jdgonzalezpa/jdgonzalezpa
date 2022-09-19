@@ -1,12 +1,12 @@
 ## **Juan Diego González Parra**
 
-I am a civil engineer with a master’s degree in water resources and more than 10 years of experience in water-related infrastructure and environmental projects, including technical and policy development, as well as project management and coordination of interdisciplinary teams. Adjunct professor in the Faculty of Engineering at the [Universidad Nacional de Colombia](www.unal.edu.co). My interests include hydrologic and hydraulic modeling of watersheds and aquatic ecosystems, integrated water resource management,  water quality, environmental flows, riparian zones, and sediment management. My experience includes leadership and coordination of interdisciplinary teams in Colombia, Ecuador, and the USA, as well as communication with stakeholders such as government agencies, private companies, and local communities. 
+I am a civil engineer with a master’s degree in water resources and more than 10 years of experience in water-related infrastructure and environmental projects, including technical and policy development, as well as project management and coordination of interdisciplinary teams. Adjunct professor in the Faculty of Engineering at the [Universidad Nacional de Colombia](https://unal.edu.co/). My interests include hydrologic and hydraulic modeling of watersheds and aquatic ecosystems, integrated water resource management,  water quality, environmental flows, riparian zones, and sediment management. My experience includes leadership and coordination of interdisciplinary teams in Colombia, Ecuador, and the USA, as well as communication with stakeholders such as government agencies, private companies, and local communities. 
 
 ---
 
 ## Education
-- MSc in water resources - [Universidad Nacional de Colombia](www.unal.edu.co) (2011). Thesis: Integrated modelling of Bogotá’s city drainage system, WWTP and urban rivers.
-- Civil engineering - [Universidad Nacional de Colombia](www.unal.edu.co) (2009). Simplified rainfall – runoff modelling in the Universidad Nacional urban watershed.
+- MSc in water resources - [Universidad Nacional de Colombia](https://unal.edu.co/) (2011). Thesis: Integrated modelling of Bogotá’s city drainage system, WWTP and urban rivers.
+- Civil engineering - [Universidad Nacional de Colombia](https://unal.edu.co/) (2009). Simplified rainfall – runoff modelling in the Universidad Nacional urban watershed.
 ---
 ## Projects
 - [...]
