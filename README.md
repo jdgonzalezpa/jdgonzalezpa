@@ -17,8 +17,8 @@ I am a civil engineer with a master’s degree in water resources and more than 
 - Ministerio de Ambiente y Desarrollo Sostenible, Dirección de Gestión Integral del Recurso Hídrico (2019). [Metodología para la estimación del caudal ambiental en el río Bogotá](https://test-www.minambiente.gov.co/wp-content/uploads/2020/05/14.-Anexo-14-Metodolog%C3%ADa-Caudal-.pdf). Coauthor.
 - Ministerio de Ambiente y Desarrollo Sostenible, Dirección de Gestión Integral del Recurso Hídrico (2018). [Guía Nacional de modelación del recurso hídrico para aguas superficiales continentales](https://www.minambiente.gov.co/wp-content/uploads/2021/10/15.-Anexo-15-Guia-Nacional-de-Modelacion-del-Recurso-Hidrico.pdf). ISBN: 978-958-8901-84-8.
 - Ministerio de Ambiente y Desarrollo Sostenible, Dirección de Gestión Integral del Recurso Hídrico (2018). [Guía para el ordenamiento del recurso hídrico continental superficial](https://test-www.minambiente.gov.co/wp-content/uploads/2020/05/13.-Anexo-13-Gu%C3%ADa-para-el-Ordenamiento-del-Recurso-H%C3%ADdrico.pdf). ISBN: 978-958-8901-99-2. Coauthor.
-- Universidad del Valle (2012). Sociedad y servicios ecosistémicos. ISBN: 978-958-765-068-6. Chapter 16: Desarrollo e implementación de un modelo integrado del sistema alcantarillado – PTAR – humedales – ríos
-urbanos de la ciudad de Bogotá.
+- Universidad del Valle (2012). Sociedad y servicios ecosistémicos. ISBN: 978-958-765-068-6. Chapter 16: Desarrollo e implementación de un modelo integrado del sistema alcantarillado – PTAR – humedales – ríos urbanos de la ciudad de Bogotá.
+- González, J. (2011). [Modelación integrada del sistema de drenaje - PTAR - río de la ciudad de Bogotá](https://repositorio.unal.edu.co/handle/unal/7918). Tesis de maestría, mención meritoria.
 
 
 <!--
